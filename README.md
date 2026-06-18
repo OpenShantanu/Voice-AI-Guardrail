@@ -39,9 +39,9 @@ The system provides a Security Operations Center (SOC) style dashboard for monit
 
 ## Security Operations Dashboard
 
-![SOC Dashboard Example 1](assets/dashboard1.png)
+![SOC Dashboard Example 1](screenshots/dashboard1.png)
 
-![SOC Dashboard Example 2](assets/dashboard2.png)
+![SOC Dashboard Example 2](screenshots/dashboard2.png)
 
 The dashboard provides:
 
