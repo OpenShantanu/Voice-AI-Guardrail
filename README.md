@@ -35,7 +35,24 @@ ALLOW / REVIEW / BLOCK
 The system provides a Security Operations Center (SOC) style dashboard for monitoring attacks, risk scores, decisions, and security events in real time.
 
 ---
+# Screenshots
 
+## Security Operations Dashboard
+
+![SOC Dashboard Example 1](assets/dashboard1.png)
+
+![SOC Dashboard Example 2](assets/dashboard2.png)
+
+The dashboard provides:
+
+- Real-time voice transcript monitoring
+- Prompt injection detection
+- Risk score visualization
+- Security decision engine
+- Event timeline
+- Detection pipeline visibility
+
+---
 ## Problem Statement
 
 Modern Voice AI Agents are vulnerable to:
