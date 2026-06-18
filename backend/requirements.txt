@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+faster-whisper
+groq
+sentence-transformers
+scikit-learn
+numpy
+pydantic
+pydantic-settings
+python-dotenv
